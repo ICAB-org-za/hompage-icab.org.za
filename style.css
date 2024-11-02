@@ -1,0 +1,21 @@
+**style.css** (Replace with your own styles)
+
+```css
+body {
+  font-family: Arial, sans-serif;
+  background-color: #333; /* Dark tinted green */
+  color: #fff; /* Light color for text */
+}
+
+.header {
+  background-color: #202020; /* Slightly darker green for header */
+  padding: 20px 0;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.logo {
